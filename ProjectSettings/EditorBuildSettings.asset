@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Patterport/MatchTwo/Scenes/TitleScene.unity
+    guid: 6fa2beaa4f842303091818a552f91492
+  - enabled: 1
     path: Assets/Patterport/MatchTwo/Scenes/GameScene.unity
     guid: cf5e80d92b5f6214198dc9c0c8368fac
   m_configObjects:
